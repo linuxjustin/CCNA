@@ -1,0 +1,29 @@
+                                    CCNA Routing and Switching Lab
+                                    
+                                    
+                                    
+*> You need Pacet tracer and GNS3
+*> you can use 6.1 packet tracer or newer one
+
+List of CCNA lab:
+
+  Switching Topic:
+    
+    *> Vlan configuration
+    *> VTP configuration
+    *> STP configuration
+    *> Etherchannel Configuration
+    *> Port Security Configuration
+    *> HSRP Configuration
+    
+  Router Topic:
+     
+     *> RIP configuration
+     *> EIGRP configuration
+     *> OSPF configuration
+     *> OSPF ABR configuration
+     *> OSPD ASBR configuraton
+     *> ACL configuration
+     *> IBGP configuration
+     *> IBGP peergroup configuration
+     *> EBGP configuration
