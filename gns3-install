@@ -1,0 +1,8 @@
+pip3 install gns3-server
+pip3 install gns3-gui
+apt-get install -y dynamips
+git clone https://github.com/GNS3/ubridge.git
+cd ubridge
+make 
+sudo make install
+echo "Done"
